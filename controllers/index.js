@@ -1,3 +1,3 @@
-module.exports.categoryController = require("../model/category.model")
+module.exports.categoryController = require("../controllers/category.controller")
 module.exports.productController = require("../controllers/product.controller")
 
