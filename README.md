@@ -13,7 +13,7 @@
 - npm install
 
 #3 set the environment variables
-- MONGODB_URL=ongodb://127.0.0.1:27017 // To connect locally
+- MONGODB_URL=mongodb://127.0.0.1:27017 // To connect locally
 
 #5 start project
 - npm run dev
